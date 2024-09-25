@@ -29,7 +29,7 @@ Destructor release memory space occupied by the objects created by the construct
 
 ## Code
 (A)
-'''
+```
 // NAME - SAURABH BIHANI
 // PRN- 23070123166
 // EXPERIMENT - 12(A) 
@@ -63,9 +63,9 @@ int main()
     Data d1;
     d1.display();
 } 
-'''
+```
 (B)
-'''
+```
 // NAME - SAURABH BIHANI
 // PRN - 2307012366 
 // EXPERIMENT - 12(B)
@@ -91,9 +91,9 @@ int main()
 {
     Num n1(4,3);
 } 
-'''
+```
 (C)
-'''
+```
 // NAME - SAURABH BIHANI
 // PRN - 23070123166
 // EXPERIMENT - 12(C) 
@@ -122,4 +122,4 @@ int main()
     }
     return 0;
 } 
-'''
+```
