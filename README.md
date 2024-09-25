@@ -27,7 +27,7 @@ Destructor neither requires any argument nor returns any value.
 It is automatically called when an object goes out of scope.
 Destructor release memory space occupied by the objects created by the constructor. Objectsaredestroyedc in the reverse of an object creation.
 
-## Code
+## Code and Output
 (A)
 ```
 // NAME - SAURABH BIHANI
@@ -64,6 +64,8 @@ int main()
     d1.display();
 } 
 ```
+![Output_12A](https://github.com/user-attachments/assets/21462ff2-f4dc-45f9-8cee-22b74a2d9119)
+
 (B)
 ```
 // NAME - SAURABH BIHANI
@@ -92,6 +94,8 @@ int main()
     Num n1(4,3);
 } 
 ```
+![Output_12B](https://github.com/user-attachments/assets/ab0d23ad-ad8d-4c98-a0be-0404fb97df87)
+
 (C)
 ```
 // NAME - SAURABH BIHANI
@@ -123,3 +127,4 @@ int main()
     return 0;
 } 
 ```
+![Output_12C](https://github.com/user-attachments/assets/3e3b8358-451b-40b2-9c3d-b3fe9a9d65d5)
