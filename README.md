@@ -64,7 +64,8 @@ int main()
     d1.display();
 } 
 ```
-![Output_12A](https://github.com/user-attachments/assets/21462ff2-f4dc-45f9-8cee-22b74a2d9119)
+![WhatsApp Image 2024-10-08 at 22 41 27 (1)](https://github.com/user-attachments/assets/f1ba0502-defd-4d53-8dff-d6c6869a1ab2)
+
 
 (B)
 ```
